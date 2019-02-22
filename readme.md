@@ -4,4 +4,4 @@ We have added Flask Library to performing the REST functionality.
 
 After you run the python file "rest_test.py". It sends the result to the URL http://localhost:5000/total/
 
-You can view the result in the browser.
+You can view the result in the browser. More information in Rest_test.pptx. IF any queries, please contact prakassraj@gmail.com
